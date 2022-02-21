@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elisa :P
 - 👀 I’m interested in learning everything I can about UI/UX and front-end and eventually I see myself building mobile apps
-- 🌱 I’m currently learning ... the basics of programming
-- 💞️ I’m looking to collaborate on ... simple projects that help retain what I'm learning
+- 🌱 I’m currently learning ... the basics of front-end programming
+- 💞️ I’m looking to collaborate on ... simple projects that help retain what I'm learning and challenge what I think I know
 - 📫 How to reach me ...
 
 <!---
